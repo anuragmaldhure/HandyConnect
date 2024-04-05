@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HandyConnect/static/css/main.ff02f4b5.css",
+    "main.js": "/HandyConnect/static/js/main.63beec36.js",
+    "static/js/453.01123237.chunk.js": "/HandyConnect/static/js/453.01123237.chunk.js",
+    "index.html": "/HandyConnect/index.html",
+    "main.ff02f4b5.css.map": "/HandyConnect/static/css/main.ff02f4b5.css.map",
+    "main.63beec36.js.map": "/HandyConnect/static/js/main.63beec36.js.map",
+    "453.01123237.chunk.js.map": "/HandyConnect/static/js/453.01123237.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.63beec36.js"
+  ]
+}
